@@ -1,0 +1,9 @@
+name: test_upload
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pip>=22.3
+  - cartopy
+  - pip:
+    - matplotlib

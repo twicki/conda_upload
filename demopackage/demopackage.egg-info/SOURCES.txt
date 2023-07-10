@@ -1,0 +1,7 @@
+setup.py
+demopackage.egg-info/PKG-INFO
+demopackage.egg-info/SOURCES.txt
+demopackage.egg-info/dependency_links.txt
+demopackage.egg-info/not-zip-safe
+demopackage.egg-info/requires.txt
+demopackage.egg-info/top_level.txt
