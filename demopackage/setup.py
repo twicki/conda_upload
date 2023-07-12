@@ -18,6 +18,7 @@ requirements = []
 install_requires = [
     "cartopy",
     "scipy"
+    "matplotlib"
 ]
 
 test_requirements = ["pytest==5.2.2"]
