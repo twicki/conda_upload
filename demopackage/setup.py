@@ -17,7 +17,6 @@ readme = "does not exist"
 requirements = []
 install_requires = [
     "cartopy",
-    "scipy"
     "matplotlib"
 ]
 

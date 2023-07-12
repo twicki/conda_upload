@@ -20,7 +20,7 @@ def sample_data(shape=(73, 145)):
     return lons, lats, data
 
 
-def main():
+def entrypoint():
 
     # Use the same sample data as the waves example, but make it
     # more dependent on y for more interesting contours.
@@ -52,4 +52,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    entrypoint()

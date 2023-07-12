@@ -1,1 +1,3 @@
 my-channel
+*.egg-info/
+*__pycache__/
