@@ -1,0 +1,6 @@
+name: test_download
+channels:
+  - https://hub.meteoswiss.ch/nexus/repository/conda/main
+dependencies:
+  - python>=3.10
+  - numpy
